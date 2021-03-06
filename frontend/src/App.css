@@ -1,0 +1,21 @@
+.header {
+ position: initial;
+ width: full;
+ height: 50px;
+ text-align: center;
+ background-color: rgb(120, 120, 233);
+}
+
+.form {
+    margin: 15px;
+    position: relative;
+    /* flex-grow: initial; */
+}
+
+.footer{
+    text-decoration-color: blue;
+    background-color: aquamarine;
+    text-align: center;
+    margin:20px;
+    padding: 20px;
+}
